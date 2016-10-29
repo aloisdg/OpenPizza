@@ -1,0 +1,47 @@
+---
+name: "Marinara"
+description: "Delicious pizza"
+time: 55
+cook: 40
+preparation: 15
+base: "tomato"
+condiments:
+    -
+        name: "mozzarella"
+        quantity: 6
+        unit: "slices"
+    -
+        name: "mushrooms"
+        quantity: 1
+        unit: "number"
+    -
+        name: "shrimps"
+        quantity: 20
+        unit: "grammes"
+    -
+        name: "mussels"
+        quantity: 43
+        unit: "grammes"
+    -
+        name: "tuna"
+        quantity: 100
+        unit: "grammes"
+    -
+        name: "calamari"
+        quantity: 10
+        unit: "grammes"
+    -
+        name: "crab meat"
+        quantity: 20
+        unit: "grammes"
+recipe:
+    - "Do the stuff"
+    - "Add the base"
+    - "Add mozzarella"
+    - "Add mushrooms"
+    - "Add tuna"
+    - "Add shrimps"
+    - "Add mussels"
+    - "Add calamari"
+    - "Add crab meat"
+    - "Start cuisson"

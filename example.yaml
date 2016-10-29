@@ -9,13 +9,13 @@ condiments:
     -
         name: "ananas"
         quantity: 6
-        unit": "slices"
+        unit: "slices"
     -
         name: "egg"
         quantity: 1
         unit: "number"
     -
-        name": "bacon"
+        name: "bacon"
         quantity: 200
         unit: "grammes"
 recipe:
