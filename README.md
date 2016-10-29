@@ -1,5 +1,7 @@
 # OpenPizza
 
+![logo](logo.png)
+
 ## What is it?
 
 OpenPizza is a community driven open source initiative to create a YAML-based standard and database for pizza recipes.
