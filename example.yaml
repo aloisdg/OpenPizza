@@ -1,25 +1,26 @@
-name: "The Hawain",
-description: "The hawain is an awesome pizza from Canada",
-time: 2,
-cuisson: 10,
-base: "tomato",
+---
+name: "The Hawain"
+description: "The hawain is an awesome pizza from Canada"
+time: 2
+cuisson: 10
+base: "tomato"
 condiments:
     -
-        name: "ananas",
-        quantity: 6,
+        name: "ananas"
+        quantity: 6
         unit": "slices"
     -
-        name: "egg",
-        quantity: 1,
+        name: "egg"
+        quantity: 1
         unit: "number"
     -
-        name": "bacon",
-        quantity: 200,
+        name": "bacon"
+        quantity: 200
         unit: "grammes"
 recipe:
-    - "Do the stuff",
-    - "Add the base",
-    - "Add ananas' slices",
-    - "Add bacon",
-    - "Add egg",
+    - "Do the stuff"
+    - "Add the base"
+    - "Add ananas' slices"
+    - "Add bacon"
+    - "Add egg"
     - "Start cuisson"
