@@ -1,0 +1,16 @@
+{
+  "name": "openpizza",
+  "version": "0.1.0",
+  "description": "OpenPizza aims to bring peace to the pizza ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pizza",
+    "open",
+    "libre"
+  ],
+  "author": "aloisdg",
+  "license": "ISC"
+}
