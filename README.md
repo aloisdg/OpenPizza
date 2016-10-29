@@ -15,3 +15,8 @@ We also feel that the YAML Schema is mature enough for writing usable semantics.
 ## Open Source
 
 The schema is open source and community-driven.
+
+## They like us!
+
+- [Pizzule](https://aloisdg.github.io/Pizzule/src/)
+- Pizzator360
