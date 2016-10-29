@@ -1,8 +1,9 @@
 ---
 name: "The Hawain"
 description: "The hawain is an awesome pizza from Canada"
-time: 2
-cuisson: 10
+time: 55
+cook: 40
+preparation: 15
 base: "tomato"
 condiments:
     -
