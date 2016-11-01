@@ -19,4 +19,4 @@ The schema is open source and community-driven.
 ## They like us!
 
 - [Pizzule](https://aloisdg.github.io/Pizzule/src/)
-- Pizzator360
+- PizzaThor-360
